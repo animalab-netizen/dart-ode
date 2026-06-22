@@ -2,6 +2,13 @@ name: dart_ode
 description: Opinionated delivery engine for Dart applications.
 version: 0.1.0
 repository: https://github.com/animalab-netizen/dart-ode
+homepage: https://github.com/animalab-netizen/dart-ode
+issue_tracker: https://github.com/animalab-netizen/dart-ode/issues
+topics:
+  - ode
+  - architecture
+  - usecase
+  - guard
 environment:
   sdk: ">=3.4.0 <4.0.0"
 
